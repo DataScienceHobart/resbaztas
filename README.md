@@ -11,6 +11,6 @@ https://github.com/mozillascience/studyGroup
 
 ## Ether pad
 
-http://etherpad.org/
+https://public.etherpad-mozilla.org/p/ResBazTas2017
 
 
