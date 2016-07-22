@@ -10,6 +10,11 @@ programme
 - contact Arko, robots etc.
 - digital humanities?
 
+# Schedule planning
+
+We need decisions on concret plans, then we can approach funders for specific $ contributions: 
+
+- where is 
 
 ## The cookbook
 
