@@ -11,9 +11,10 @@ programme
 
 # Schedule planning
 
-We need decisions on concret plans, then we can approach funders for specific $ contributions: 
+We need decisions on concret plans, then we can approach funders for specific $ contributions.
 
-- where is 
+Here's the live draft:
+https://heydejan.gitbooks.io/resbaz-cookbook/content/sites/hobart.html
 
 # The main 2017 site
 
@@ -29,7 +30,7 @@ https://resbaz-team.slack.com/
 
 ## The cookbook
 
-https://github.com/resbaz/cookbook/wiki
+https://www.gitbook.com/book/heydejan/resbaz-cookbook/details
 
 ## Study groups
 
